@@ -23,6 +23,5 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 |**WEEK 1**| **Completed**|
 |-----------|----------------|
 |**WEEK 2**| **Start**|
-|-----------|----------------|
-
+| [Day 8 Check for Straight Line for given coordinates] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/CheckForStraightLine.java)|
 
