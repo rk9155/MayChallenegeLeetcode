@@ -27,4 +27,5 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 | [Day 9 Check for Perfectsquare (Binarysearch)] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/PerfectSquare.java)|
 | [Day 10 Find The Town Judge (HashMap & HashSet)] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/TownJudge.java)|
 | [Day 11 Flood Fill Algorithm (color filling)] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/FloodFillAlgorithm.java)|
+| [Day 12 Single element in sorted array] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/SingleElement.java)|
 
