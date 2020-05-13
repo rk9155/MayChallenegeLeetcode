@@ -28,4 +28,6 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 | [Day 10 Find The Town Judge (HashMap & HashSet)] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/TownJudge.java)|
 | [Day 11 Flood Fill Algorithm (color filling)] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/FloodFillAlgorithm.java)|
 | [Day 12 Single element in sorted array] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/SingleElement.java)|
+| [Day 13 Remove K digits to get smallest no. (greedy and stack)] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/RemoveKdigits.java)|
+
 
