@@ -30,7 +30,11 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 | [Day 12 Single element in sorted array] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/SingleElement.java)|
 | [Day 13 Remove K digits to get smallest no. (greedy and stack)] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/RemoveKdigits.java)|
 | [Day 14 Implementation of Trie Data Structures] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/Trie.java)|
+|**WEEK 2**| **Completed**|
+|-----------|----------------|
+|**WEEK 3**| **Start**|
 | [Day 15 MaximumSum Circular Array (Kadane's algorithm)] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/MaxSumCircularArray.java)|
+| [Day 15 Rearrange Linked list according to even and odd postion] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/OddEvenLinkedLists.java)|
 
 
 
