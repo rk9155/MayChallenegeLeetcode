@@ -34,7 +34,8 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 |-----------|----------------|
 |**WEEK 3**| **Start**|
 | [Day 15 MaximumSum Circular Array (Kadane's algorithm)] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/MaxSumCircularArray.java)|
-| [Day 15 Rearrange Linked list according to even and odd postion] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/OddEvenLinkedLists.java)|
+| [Day 16 Rearrange Linked list according to even and odd postion] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/OddEvenLinkedLists.java)|
+| [Day 17 Anagrams Problem] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/AnagramInString.java)|
 
 
 
