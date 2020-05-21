@@ -39,6 +39,12 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 | [Day 18 Permutation in string ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/PermutationInString.java)|
 | [Day 19 Online Stock Span ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/OnlineStockSpan.java)|
 | [Day 20 Kth Smallest in BST ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/master/KthSmallestInBST.java)|
+| [Day 21 Max Square of one's in matrix ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/MaxSquareWithOnes.java)|
+|**WEEK 3**| **Completed**|
+|-----------|----------------|
+|**WEEK 4**| **Start**|
+
+
 
 
 
