@@ -43,6 +43,7 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 |**WEEK 3**| **Completed**|
 |-----------|----------------|
 |**WEEK 4**| **Start**|
+| [Day 22 Sort string by char frequency (tough one) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/SortCharByFrequency.java)|
 
 
 
