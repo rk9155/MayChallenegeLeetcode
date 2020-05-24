@@ -45,6 +45,7 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 |**WEEK 4**| **Start**|
 | [Day 22 Sort string by char frequency (tough one) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/SortCharByFrequency.java)|
 | [Day 23 Interval List intersection (new) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/IntervalListIntersection.java)|
+| [Day 24 Construct BST from preorder ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/BSTfromPreorder.java)|
 
 
 
