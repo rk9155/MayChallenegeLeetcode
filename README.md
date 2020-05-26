@@ -47,6 +47,7 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 | [Day 23 Interval List intersection (new) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/IntervalListIntersection.java)|
 | [Day 24 Construct BST from preorder ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/BSTfromPreorder.java)|
 | [Day 25 uncrossed lines (DP) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/UncrossedLines.java)|
+| [Day 26 Contigous Array of 0 and 1 ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/ContiguousArray.java)|
 
 
 
