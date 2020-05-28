@@ -49,6 +49,7 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 | [Day 25 uncrossed lines (DP) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/UncrossedLines.java)|
 | [Day 26 Contigous Array of 0 and 1 ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/ContiguousArray.java)|
 | [Day 27 Possible Bipartition (graph) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/PossibleBipartition.java)|
+| [Day 28 Count Set Bits from 0 to n ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/CountBits.java)|
 
 
 
