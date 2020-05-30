@@ -55,7 +55,8 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 |**WEEK 5**| **Start**|
 | [Day 29 Course Schedule Prblem (Graph is Cycic) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/CourseSchedule.java)|
 | [Day 30 K closest Points To origin (hard) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/KclosetPointsToOrigin.java)|
-
+|**WEEK 5**| **Completed**|
+|**30 Days May Challange Completed ✌️✌️**|
 
 
 
