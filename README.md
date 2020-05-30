@@ -50,7 +50,11 @@ This Challenge is beginner-friendly . It consists of 31 daily problems over the 
 | [Day 26 Contigous Array of 0 and 1 ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/ContiguousArray.java)|
 | [Day 27 Possible Bipartition (graph) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/PossibleBipartition.java)|
 | [Day 28 Count Set Bits from 0 to n ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/CountBits.java)|
+|**WEEK 4**| **Completed**|
+|-----------|----------------|
+|**WEEK 5**| **Start**|
 | [Day 29 Course Schedule Prblem (Graph is Cycic) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/CourseSchedule.java)|
+| [Day 30 K closest Points To origin (hard) ] (Leetcode) | [solution](https://github.com/rk9155/MayChallenegeLeetcode/blob/KclosetPointsToOrigin.java)|
 
 
 
